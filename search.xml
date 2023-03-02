@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>进店必看！0元购指南🎁🎁🎁</title>
+    <url>/zero-buy-guidance/</url>
+    <content><![CDATA[<details class="blue"><summary><i class="fa-solid fa-chevron-right"></i>&nbsp;&nbsp;&nbsp;&nbsp;初心 </summary>
+              <div class="content">
+              <p>本店原为店长私人的电子资料库<br>主要存储本人在大学期间收集的真题、书籍等资源<br>后来发现，我的囤货可以为大家省去重复的资源翻找工作<br>将更多时间用于自我的提升上<br>因此马不停蹄的开放了自己的资源<br>以完全免费的方式，供大家学习<br><a class="button " href="https://squirrelstore.github.io/about/" title="更多信息">更多信息</a></p>
+              </div>
+            </details>
+
+<details class="blue"><summary><i class="fa-solid fa-chevron-right"></i>&nbsp;&nbsp;&nbsp;&nbsp;本店使用方法 </summary>
+              <div class="content">
+              
+              </div>
+            </details>]]></content>
+  </entry>
+  <entry>
     <title>测试</title>
     <url>/test/</url>
     <content><![CDATA[<h1 id="1-啊test"><a href="#1-啊test" class="headerlink" title="1.啊test"></a>1.啊test</h1><p>sdjvn </p>
 <h1 id="2-asfv"><a href="#2-asfv" class="headerlink" title="2.asfv"></a>2.asfv</h1><h2 id="xf"><a href="#xf" class="headerlink" title="xf"></a>xf</h2><p>sdfvd</p>
 <h2 id="666"><a href="#666" class="headerlink" title="666"></a>666</h2>]]></content>
-  </entry>
-  <entry>
-    <title>售后服务</title>
-    <url>/after-sale-service/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
